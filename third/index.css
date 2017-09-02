@@ -1,0 +1,73 @@
+.body{
+    position: relative;
+}
+
+.header{
+    position: absolute;
+    width: 100vw;
+    height: 12vh;
+    background-color: darkgray;
+}
+
+.square{
+    position: absolute;
+    background-color: blue;
+    width: 7vw;
+    height: 10vh;
+    top: 8%;
+    left: 2%;
+}
+
+.hero{
+    position: absolute;
+    width: 100vw;
+    height: 35vh;
+    background-color: white;
+    top: 104px;
+}
+
+.herotext{
+    position: absolute;
+    text-align: left;
+    width: 50vw;
+    height: 20vh;
+    font-size: 16pt;
+    font-family: montserrat light;
+    color: gray;
+    left: 25%;
+    top: 55px;
+}
+
+.blue{
+    position: absolute;
+    width: 100vw;
+    height: 16vh;
+    background-color: rgb(0, 94, 255);
+    top: 408px;
+}
+
+.teal{
+    position: absolute;
+    width: 100vw;
+    height: 16vh;
+    background-color: #02DDDD;
+    top: 547px;
+}
+
+.green{
+    position: absolute;
+    width: 100vw;
+    height: 16vh;
+    background-color: #97C160;
+    top: 686px;
+
+}
+
+.yellow{
+    position: absolute;
+    position: absolute;
+    width: 100vw;
+    height: 16vh;
+    background-color: yellow;
+    top: 825px;
+}
