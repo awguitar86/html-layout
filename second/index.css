@@ -1,0 +1,81 @@
+body{
+    position: relative;
+}
+
+.top{
+    position: absolute;
+    width: 98vw;
+    height: 20vh;
+    border: solid;
+    border-color: black;
+}
+
+.small{
+    position: absolute;
+    width: 3vw;
+    height: 10vh;
+    background-color: purple;
+    top: 40%;
+    left: 2%;
+}
+
+.large{
+    position: absolute;
+    width: 20vw;
+    height: 17vh;
+    background-color: green;
+    top: 5%;
+    left: 10%;
+
+}
+
+.circle{
+    position: absolute;
+    border-radius: 50%;
+    background-color: lightblue;
+    width: 150px;
+    height: 150px;
+    left: 35%;
+    top: 5%;
+}
+
+.middle{
+    position: absolute;
+    top: 200px;
+    width: 98vw;
+    height: 30vh;
+    border: dotted;
+    border-color: black;
+}
+
+.rectangle{
+    position: absolute;
+    top: 40px;
+    left: 50px;
+    width: 90vw;
+    height: 20vh;
+    background-color: #F3E8A1;
+    box-shadow: 10px 10px 5px #474646;
+
+}
+
+.bottom{
+    position: absolute;
+    width: 40vw;
+    height: 30vh;
+    top: 500px;
+    left: 30%;
+    border: solid;
+    border-color: lightgray;
+    box-shadow: 5px 5px 5px lightgray;
+
+}
+
+.text{
+    position: absolute;
+    top: 60px;
+    left: 35%;
+    text-align: center;
+    font-family: montserrat light;
+    color: darkblue;
+}
